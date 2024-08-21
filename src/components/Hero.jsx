@@ -45,7 +45,7 @@ function Hero() {
           </div>
         </div>
         <div className="flex items-center justify-center w-full lg:w-1/2">
-          <div className="">
+          <div>
             <img
               alt="Hero Illustration"
               width="616"
@@ -57,7 +57,7 @@ function Hero() {
         </div>
       </div>
     </div>
-  )
+  );
 }
 
-export default Hero
+export default Hero;

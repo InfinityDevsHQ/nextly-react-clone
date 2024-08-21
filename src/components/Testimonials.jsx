@@ -38,7 +38,7 @@ function Testimonials() {
               </div>
             </div>
           </div>
-          <div className="">
+          <div>
             <div className="flex flex-col justify-between w-full h-full bg-gray-100 rounded-2xl px-4 md:px-6 lg:px-12 py-6 md:py-10 lg:py-14 dark:bg-neutral-800">
               <p className="text-2xl leading-normal ">
                 Make sure you only pick the{" "}
@@ -60,7 +60,7 @@ function Testimonials() {
               </div>
             </div>
           </div>
-          <div className="">
+          <div>
             <div className="flex flex-col justify-between w-full h-full bg-gray-100 px-4 md:px-6 lg:px-12 py-6 md:py-10 lg:py-14 rounded-2xl dark:bg-neutral-800">
               <p className="text-2xl leading-normal ">
                 This is an{" "}
@@ -92,7 +92,7 @@ function Testimonials() {
         </div>
       </div>
     </>
-  )
+  );
 }
 
-export default Testimonials
+export default Testimonials;
